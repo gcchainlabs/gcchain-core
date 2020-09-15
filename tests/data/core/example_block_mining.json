@@ -1,0 +1,25 @@
+{
+  "header": {
+    "hashHeader": "1bvINRGIqEfGcvn+utjYuu+T60ZycgUuChihK655+TE=",
+    "hashHeaderPrev": "VGhlIEJ1cm5pbmcgSWNl",
+    "rewardBlock": "65000000000000000",
+    "merkleRoot": "6kLD1Nhp0FcIuX3vIwFjkChg1ZxFZvUgvMcBE9gmYSQ="
+  },
+  "transactions": [
+    {
+      "masterAddr": "AQMACCOCpS+LqcLTOtgHws3VvQhsLC/mPG6hO2MNEoCJTDo54cOA",
+      "nonce": "1",
+      "transactionHash": "6kLD1Nhp0FcIuX3vIwFjkChg1ZxFZvUgvMcBE9gmYSQ=",
+      "coinbase": {
+        "addrTo": "AQUAMns813fh7KuT34c+ozXeNBMoP/K6Sn/1d++XnrmaVOBlkPRm",
+        "amount": "65000000000000000"
+      }
+    }
+  ],
+  "genesisBalance": [
+    {
+      "address": "AQMACCOCpS+LqcLTOtgHws3VvQhsLC/mPG6hO2MNEoCJTDo54cOA",
+      "balance": "105000000000000000"
+    }
+  ]
+}
